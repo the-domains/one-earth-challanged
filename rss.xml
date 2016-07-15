@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[One.Earth Challanged]]></title>
         <description><![CDATA[One.Earth Challanged]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/one-earth-challanged/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 18:49:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jul 2016 19:55:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/one-earth-challanged/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Inhumanity...]]></title>
+            <description><![CDATA[<article><h1>Inhumanity...</h1><p>http://abcnews.go.com/International/heartbreaking-image-burned-girl-captures-agony-iraq/story?id=40546610</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/11f2d4d7-4b99-445b-8b1d-33f2ea33f40b.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/11f2d4d7-4b99-445b-8b1d-33f2ea33f40b.jpg</link>
+            <guid isPermaLink="false">6205a76f-d83f-4d46-baa7-8b724f0f3bb8</guid>
+            <pubDate>Fri, 15 Jul 2016 19:55:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Challange...Nice,France]]></title>
             <description><![CDATA[<article><h1>Challange...Nice,France</h1><p>Attack in Nice: Truck driver identified as 31-year-old Tunisia native</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86436e09-d3a7-442c-a658-aeac40183065.jpg"></article>]]></description>
