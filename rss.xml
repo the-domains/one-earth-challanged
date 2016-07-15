@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[One.Earth Challanged]]></title>
+        <description><![CDATA[One.Earth Challanged]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Jul 2016 18:49:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Challange...Nice,France]]></title>
+            <description><![CDATA[<article><h1>Challange...Nice,France</h1><p>Attack in Nice: Truck driver identified as 31-year-old Tunisia native</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86436e09-d3a7-442c-a658-aeac40183065.jpg"></article>]]></description>
+            <link>http://www.cnn.com/2016/07/15/europe/nice-france-truck/index.html</link>
+            <guid isPermaLink="false">018bb1b8-9a95-4544-b783-8187b7c97dbc</guid>
+            <pubDate>Fri, 15 Jul 2016 18:49:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
