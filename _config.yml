@@ -1,14 +1,14 @@
 layout_spectrum: 0.9684271314181387
 typography_spectrum: 0.6054088126402348
 color:
-  saturation: 0.43373004416935146
-  lightness: 0.4996855778153986
-  brandStrength: 0.7675203836988658
-  rhythmicContrast: 0.03371869050897658
+  saturation: 0.7445622272789478
+  lightness: 0.518351090606302
+  brandStrength: 0.2005228439811617
+  rhythmicContrast: 0.42620138521306217
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
 name: One.Earth Challanged
