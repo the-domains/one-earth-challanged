@@ -12,3 +12,8 @@ color:
     - '#B64926'
     - '#8E2800'
 name: One.Earth Challanged
+navigation:
+  - id: 'https://thegrid.ai/one-earth-community/'
+    url: 'https://thegrid.ai/one-earth-community/'
+    name: one earth community
+    type: external
