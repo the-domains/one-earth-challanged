@@ -10,18 +10,18 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.4573943060822785
+typography_spectrum: 0.7429045895114541
 color:
-  saturation: 0.8125672
-  brandStrength: 0.6442387814167887
-  rhythmicContrast: 0.4172932
+  saturation: 0.775870191399008
+  brandStrength: 0.30349426274187863
+  rhythmicContrast: 0.09277570806443691
   brandColors:
-    - '#225378'
-    - '#1695A3'
-    - '#ACF0F2'
-    - '#F3FFE2'
-    - '#EB7F00'
-  lightness: 0.4688507
+    - '#E8E595'
+    - '#D0A825'
+    - '#40627C'
+    - '#26393D'
+    - '#FFFAE4'
+  lightness: 0.9858531828504056
 navigation:
   - id: 'https://thegrid.ai/one-earth-community/'
     url: 'https://thegrid.ai/one-earth-community/'
