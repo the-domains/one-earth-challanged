@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-17T05:09:14.680Z'
+datePublished: '2016-07-19T23:44:54.797Z'
 sourcePath: _posts/2016-07-17-challangelet-the-popular-vote-decide-an-election-result.md
 isBasedOnUrl: 'http://www.politico.com/story/2016/07/hillary-clinton-citizens-united-225658'
 keywords:
@@ -87,9 +87,9 @@ author:
   - name: Isaac Arnsdorf
     url: 'http://www.politico.com/staff/isaac-arnsdorf'
     avatar: {}
-dateModified: '2016-07-17T05:06:52.136Z'
+dateModified: '2016-07-19T23:44:44.330Z'
 title: >-
-  Challange...let the popular vote decide an election result. Challange...self
+  Challenge...let the popular vote decide an election result. Challenge...self
   fund campaigns.
 app_links: []
 publisher:
@@ -113,6 +113,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Challange...let the popular vote decide an election result. Challange...self fund campaigns.
+# Challenge...let the popular vote decide an election result. Challenge...self fund campaigns.
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d80d27898b51b0f568bc07f2ded4c53b/croprotate.jpg?cropheight=627&amp;cropwidth=1160&amp;degrees=0&amp;input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Ff464048672925fd34d27377e2a328b44f9339fa3.jpg&amp;x=0&amp;y=0" /><h1>Clinton pledges constitutional amendment to overturn Citizens United ruling</h1><p>ST. LOUIS - Hillary Clinton committed Saturday to introducing a constitutional amendment to overturn the Citizens United decision within her first 30 days in office, if she's elected president. The announcement will come in a video during the closing keynote of the progressive Netroots Nations conference this afternoon, and it's yet another attempt to adopt the positions of her vanquished primary rival Sen.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1dfbaf2bbda998caabe6b48dd9fedaeea3928314.jpg" /><h1>Clinton pledges constitutional amendment to overturn Citizens United ruling</h1><p>ST. LOUIS - Hillary Clinton committed Saturday to introducing a constitutional amendment to overturn the Citizens United decision within her first 30 days in office, if she's elected president. The announcement will come in a video during the closing keynote of the progressive Netroots Nations conference this afternoon, and it's yet another attempt to adopt the positions of her vanquished primary rival Sen.</p></article>
