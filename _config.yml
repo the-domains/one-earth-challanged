@@ -10,10 +10,11 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.4573943060822785
 color:
-  saturation: 0.7939953
+  saturation: 0.6256713
   brandStrength: 0.6442387814167887
-  lightness: 0.6933405
+  lightness: 0.4849624
   brandColors:
     - '#225378'
     - '#1695A3'
@@ -21,7 +22,6 @@ color:
     - '#F3FFE2'
     - '#EB7F00'
   rhythmicContrast: 0.5547798
-typography_spectrum: 0.4573943060822785
 navigation:
   - id: 'https://thegrid.ai/one-earth-community/'
     url: 'https://thegrid.ai/one-earth-community/'
