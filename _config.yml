@@ -1,16 +1,16 @@
 layout_spectrum: 0.5195150566287339
-typography_spectrum: 0.675417467020452
+typography_spectrum: 0.345743166282773
 color:
-  saturation: 0.34052813332527876
-  lightness: 0.23485716828145087
-  brandStrength: 0.11149029666557908
-  rhythmicContrast: 0.5525287077762187
+  saturation: 0.13905446068383753
+  lightness: 0.6522993810940534
+  brandStrength: 0.7509480870794505
+  rhythmicContrast: 0.31127614970318973
   brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: One.Earth Challanged
 navigation:
   - id: 'https://thegrid.ai/one-earth-community/'
