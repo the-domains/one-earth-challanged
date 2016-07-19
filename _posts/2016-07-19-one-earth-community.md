@@ -1,12 +1,15 @@
 ---
-starred: false
-title: ''
-datePublished: '2016-07-19T19:35:39.437Z'
-dateModified: null
+title: One Earth Community
+datePublished: '2016-07-19T23:56:14.697Z'
+dateModified: '2016-07-19T23:56:14.291Z'
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/276536a9-218b-4492-a08e-aeb685e723ef.jpg
 sourcePath: _posts/2016-07-19-one-earth-community.md
+description: >-
+  In this day where the planet Earth is said to have “shrunk” due to technology,
+  humanity has seemed to adapted to the convergence of different cultures.
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
