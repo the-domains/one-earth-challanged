@@ -1,19 +1,31 @@
-layout_spectrum: 0.5195150566287339
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.4573943060822785
 color:
-  saturation: 0.7939953415188938
-  lightness: 0.521949031855911
+  saturation: 0.7939953
   brandStrength: 0.6442387814167887
-  rhythmicContrast: 0.802926346193999
+  lightness: 0.6933405
   brandColors:
     - '#225378'
     - '#1695A3'
     - '#ACF0F2'
     - '#F3FFE2'
     - '#EB7F00'
-name: One.Earth Challanged
+  rhythmicContrast: 0.5547798
 navigation:
   - id: 'https://thegrid.ai/one-earth-community/'
     url: 'https://thegrid.ai/one-earth-community/'
     name: one earth community
     type: external
+layout_spectrum: 0.5195150566287339
+name: One.Earth Challanged
