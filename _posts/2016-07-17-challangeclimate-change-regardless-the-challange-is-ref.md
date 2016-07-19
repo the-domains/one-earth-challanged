@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-17T00:45:32.271Z'
+datePublished: '2016-07-19T23:43:26.892Z'
+sourcePath: _posts/2016-07-17-challangeclimate-change-regardless-the-challange-is-ref.md
 isBasedOnUrl: >-
   http://abcnews.go.com/US/california-drought-causing-trees-die-millions-scientist/story?id=40317017
 keywords:
@@ -18,8 +19,8 @@ author:
   - name: ABC News
     url: null
     avatar: {}
-dateModified: '2016-07-17T00:43:40.344Z'
-title: 'Challange...climate change ? Regardless the challange is reforestation. '
+dateModified: '2016-07-19T23:43:18.209Z'
+title: Challenge...climate change ? Regardless... the challenge is reforestation.
 app_links:
   - url: 'abcnewsiphone://link/story,40317017'
     type: iphone
@@ -69,7 +70,6 @@ description: >-
   of the region. David Schimel, a senior research scientist who worked...
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-07-17-challangeclimate-change-regardless-the-challange-is-ref.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -77,6 +77,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-## Challange...climate change ? Regardless the challange is reforestation. 
+## Challenge...climate change ? Regardless... the challenge is reforestation.
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/924580e502a0dfff04f6518c95d362543aea1b22.jpg" /><h1>California Drought Causing Trees to Die by the 'Millions,' Scientist Says</h1><p>The devastation the California drought has caused to conifer trees in the Sierra Nevadas over the last couple of years "is far greater than previously observed," NASA scientists said in announcement of the publication of new map of the region. David Schimel, a senior research scientist who worked...</p></article>
