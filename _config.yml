@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.4573943060822785
 color:
   saturation: 0.7939953
   brandStrength: 0.6442387814167887
@@ -22,10 +21,11 @@ color:
     - '#F3FFE2'
     - '#EB7F00'
   rhythmicContrast: 0.5547798
+typography_spectrum: 0.4573943060822785
 navigation:
   - id: 'https://thegrid.ai/one-earth-community/'
     url: 'https://thegrid.ai/one-earth-community/'
     name: one earth community
     type: external
-layout_spectrum: 0.5195150566287339
+layout_spectrum: 0.6815252
 name: One.Earth Challanged
