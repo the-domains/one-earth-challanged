@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-16T02:50:15.216Z'
+datePublished: '2016-07-22T23:44:22.624Z'
+sourcePath: _posts/2016-07-16-challange-justified.md
 isBasedOnUrl: 'http://www.bbc.com/news/live/world-europe-36811357'
 keywords:
   - yildirim
@@ -14,8 +15,8 @@ keywords:
   - anadolu
 related: []
 author: []
-dateModified: '2016-07-16T02:49:48.022Z'
-title: Challange justified ?
+dateModified: '2016-07-22T23:44:22.223Z'
+title: Challenge justified ?
 app_links: []
 publisher:
   url: 'http://www.bbc.com'
@@ -26,8 +27,8 @@ description: >-
   Live updates as Turkey's prime minister says a group within the military is
   attempting to seize power.
 inLanguage: en
+via: {}
 starred: false
-sourcePath: _posts/2016-07-16-challange-justified.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -35,7 +36,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-## Challange justified ?
+## Challenge justified ?
 
 ## Unrest in Turkey causes a challenge to the population...
 
