@@ -27,5 +27,9 @@ navigation:
     url: 'https://thegrid.ai/one-earth-community/'
     name: one earth community
     type: external
+  - id: 'http://thegrid.ai/one-earth-community-challenged-blog/'
+    url: 'http://thegrid.ai/one-earth-community-challenged-blog/'
+    name: Blog
+    type: external
 layout_spectrum: 0.689044
 name: One.Earth Challanged
