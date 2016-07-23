@@ -1,14 +1,18 @@
 ---
-datePublished: '2016-07-23T19:25:16.409Z'
+datePublished: '2016-07-23T20:23:25.428Z'
 sourcePath: _posts/2016-07-19-one-earth-community.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/276536a9-218b-4492-a08e-aeb685e723ef.jpg
 author: []
 via: {}
-dateModified: '2016-07-23T19:25:11.519Z'
-title: Community and Family are the basis of our mission. Join Us.
+dateModified: '2016-07-23T20:23:24.731Z'
+title: >-
+  In this day of technology bringing humanity closer then ever before...has it
+  really made us better people ?
 publisher: {}
-description: Has humanity adapted to the convergence of different cultures ?
+description: >-
+  One Earth Challenged and you will share stories from around the globe from all
+  media sources to come to a consensus on humanity’s progress.
 starred: true
 inFeed: true
 hasPage: false
@@ -16,14 +20,7 @@ inNav: false
 _type: MediaObject
 
 ---
+### In this day of technology bringing humanity closer then ever before...has it really made us better people ?
 ![In this day of technology bringing all of us closer...](https://the-grid-user-content.s3-us-west-2.amazonaws.com/276536a9-218b-4492-a08e-aeb685e723ef.jpg)
 
-Has humanity adapted to the convergence of different cultures ?
-
-Has humanity matured at the same rate of the growth of technology ?
-
-_**One Earth Community **_will explore the many wonders of our world.
-
-_**One Earth Challenged **_will present a whole different perspective on humanity.
-
-### Community and Family are the basis of our mission. Join Us.
+_**One Earth Challenged and you will share stories from around the globe from all media sources to come to a consensus on humanity's progress.**_
