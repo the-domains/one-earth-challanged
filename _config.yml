@@ -10,18 +10,18 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.6497452827170491
+typography_spectrum: 0.6690750559791923
 color:
-  saturation: 0.6654136
-  brandStrength: 0.8731657180469483
-  lightness: 0.6589689
+  saturation: 0.07560573727823794
+  brandStrength: 0.31825344427488744
+  lightness: 0.13000890496186912
   brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
-  rhythmicContrast: 0.5257788
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+  rhythmicContrast: 0.9602731170598418
 navigation:
   - id: 'https://thegrid.ai/one-earth-community/'
     url: 'https://thegrid.ai/one-earth-community/'
@@ -31,5 +31,5 @@ navigation:
     url: 'http://thegrid.ai/one-earth-community-challenged-blog/'
     name: blog
     type: external
-layout_spectrum: 0.689044
+layout_spectrum: 0.5996482449118048
 name: One.Earth Challenged
