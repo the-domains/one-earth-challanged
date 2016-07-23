@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-23T18:04:42.391Z'
+datePublished: '2016-07-23T19:16:59.677Z'
 sourcePath: _posts/2016-07-19-one-earth-community.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/276536a9-218b-4492-a08e-aeb685e723ef.jpg
 author: []
 via: {}
-dateModified: '2016-07-23T17:59:07.018Z'
+dateModified: '2016-07-23T19:16:39.085Z'
 title: One Earth Community
 publisher: {}
 description: In this day where the planet Earth is said to have “shrunk” due to technology.
@@ -16,7 +16,7 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/276536a9-218b-4492-a08e-aeb685e723ef.jpg)
+### One Earth Community ==== One Earth Challenged ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/276536a9-218b-4492-a08e-aeb685e723ef.jpg)
 
 # One Earth Community
 
