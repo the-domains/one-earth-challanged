@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-07-23T19:17:07.517Z'
+datePublished: '2016-07-23T19:22:09.086Z'
 sourcePath: _posts/2016-07-19-one-earth-community.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/276536a9-218b-4492-a08e-aeb685e723ef.jpg
 author: []
 via: {}
-dateModified: '2016-07-23T19:17:07.169Z'
-title: 'One Earth Community ==== One Earth Challenged '
+dateModified: '2016-07-23T19:22:08.794Z'
+title: In this day of technology bringing all of us closer...
 publisher: {}
-description: In this day where the planet Earth is said to have “shrunk” due to technology.
+description: Has humanity adapted to the convergence of different cultures ?
 starred: true
 inFeed: true
 hasPage: false
@@ -16,9 +16,8 @@ inNav: false
 _type: MediaObject
 
 ---
-### One Earth Community ==== One Earth Challenged ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/276536a9-218b-4492-a08e-aeb685e723ef.jpg)
-
-In this day where the planet Earth is said to have "shrunk" due to technology.
+### In this day of technology bringing all of us closer...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/276536a9-218b-4492-a08e-aeb685e723ef.jpg)
 
 Has humanity adapted to the convergence of different cultures ?
 
