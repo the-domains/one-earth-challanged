@@ -1,4 +1,15 @@
-typography_spectrum: 0.4076262
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.07560573727823794
   brandStrength: 0.3182534442748874
@@ -10,8 +21,8 @@ color:
     - '#F3FFE2'
     - '#EB7F00'
   lightness: 0.1300089049618691
-layout_spectrum: 0.5996482449118048
-name: One Earth Challenged
+typography_spectrum: 0.4076262
+description: Look the challenges straight in the eye
 navigation:
   - name: one earth community
     url: 'https://thegrid.ai/one-earth-community/'
@@ -19,16 +30,5 @@ navigation:
   - name: blog
     url: 'http://thegrid.ai/one-earth-community-challenged-blog/'
     type: external
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-description: Look the challenges straight in the eye
+layout_spectrum: 0.7212675
+name: One Earth Challenged
